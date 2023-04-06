@@ -4,3 +4,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/alacritty/alacritty.git
+[submodule "fzf"]
+	path = fzf
+	url = git@github.com:junegunn/fzf.git
