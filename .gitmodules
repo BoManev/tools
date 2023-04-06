@@ -1,3 +1,6 @@
 [submodule "bash-completion"]
 	path = bash-completion
 	url = git@github.com:scop/bash-completion.git
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/alacritty/alacritty.git
