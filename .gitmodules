@@ -22,3 +22,6 @@
 [submodule "rsync-incremental-backup"]
 	path = rsync-incremental-backup
 	url = git@github.com:pedroetb/rsync-incremental-backup.git
+[submodule "i3status-rust"]
+	path = i3status-rust
+	url = https://github.com/greshake/i3status-rust
