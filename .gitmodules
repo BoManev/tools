@@ -19,3 +19,6 @@
 [submodule "j4-dmenu-desktop"]
 	path = j4-dmenu-desktop
 	url = git@github.com:enkore/j4-dmenu-desktop.git
+[submodule "rsync-incremental-backup"]
+	path = rsync-incremental-backup
+	url = git@github.com:pedroetb/rsync-incremental-backup.git
