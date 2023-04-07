@@ -25,3 +25,6 @@
 [submodule "i3status-rust"]
 	path = i3status-rust
 	url = https://github.com/greshake/i3status-rust
+[submodule "picom"]
+	path = picom
+	url = git@github.com:yshui/picom.git
