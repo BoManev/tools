@@ -37,3 +37,6 @@
 [submodule "linux-firmware"]
 	path = linux-firmware
 	url = https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+[submodule "diff-so-fancy"]
+	path = diff-so-fancy
+	url = git@github.com:so-fancy/diff-so-fancy.git
