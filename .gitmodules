@@ -31,3 +31,6 @@
 [submodule "lazygit"]
 	path = lazygit
 	url = git@github.com:jesseduffield/lazygit.git
+[submodule "ubuntu-sb-kernel-signing"]
+	path = ubuntu-sb-kernel-signing
+	url = git@github.com:berglh/ubuntu-sb-kernel-signing.git
