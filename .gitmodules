@@ -28,3 +28,6 @@
 [submodule "picom"]
 	path = picom
 	url = git@github.com:yshui/picom.git
+[submodule "lazygit"]
+	path = lazygit
+	url = git@github.com:jesseduffield/lazygit.git
