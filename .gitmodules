@@ -34,3 +34,6 @@
 [submodule "ubuntu-sb-kernel-signing"]
 	path = ubuntu-sb-kernel-signing
 	url = git@github.com:berglh/ubuntu-sb-kernel-signing.git
+[submodule "linux-firmware"]
+	path = linux-firmware
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
