@@ -40,3 +40,6 @@
 [submodule "diff-so-fancy"]
 	path = diff-so-fancy
 	url = git@github.com:so-fancy/diff-so-fancy.git
+[submodule "hyperfine"]
+	path = hyperfine
+	url = git@github.com:sharkdp/hyperfine.git
